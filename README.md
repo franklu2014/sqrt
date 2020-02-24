@@ -2,7 +2,7 @@
 
 A GitHub repository for us to use to practice branching and merging. Developed for use in the UBC DSCI 524 - Collaborative Software Development course.
 
-See if we can change.
+See if we can change.  Second attempt.
 
 ## Usage:
 
